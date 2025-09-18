@@ -2,10 +2,10 @@
 
 This is my first public project on git hub. I am learning with the help and content of "The Odin Project" using VS Code.
 
-In this project I will be using the skills I have learn so far within The Odin Project. These skills consist primarly within the language of HTML and to build my first HTML chops. 
+In this project I will be utilizing the skills I have learn so far within The Odin Project. These skills consist primarly within the language of HTML and to build my first HTML chops. 
 The website will look very basic but later will revisit this project in the future for some CSS styling. 
 
-Some of the skills that will be used in this project is of now are:
+Some of the skills that will be used in this project ias of now are:
 
 Initial Structure
 
